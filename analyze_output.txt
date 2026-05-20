@@ -1,0 +1,101 @@
+﻿Analyzing kidora_app-main...                                    
+
+  error - Expected an identifier - lib\services\usage_service.dart:50:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:50:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:50:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:50:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:50:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:50:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:75:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:75:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:75:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:75:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:75:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:75:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:85:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:85:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:85:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:85:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:85:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:85:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:90:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:90:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:90:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:90:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:90:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:90:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:97:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:97:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:97:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:97:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:97:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:97:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:154:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:154:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:154:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:154:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:154:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:154:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:161:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:161:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:161:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:161:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:161:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:161:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:181:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:181:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:181:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:181:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:181:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:181:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:190:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:190:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:190:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:190:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:190:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:190:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:199:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:199:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:199:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:199:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:199:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:199:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:207:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:207:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:207:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:207:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:207:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:207:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:224:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:224:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:224:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:224:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:224:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:224:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:231:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:231:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:231:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:231:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:231:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:231:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:262:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:262:1 - expected_token
+warning - Dead code - lib\services\usage_service.dart:262:2 - dead_code
+  error - Expected an identifier - lib\services\usage_service.dart:262:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:262:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:262:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:262:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:269:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:269:1 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:269:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:269:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:269:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:269:3 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:275:1 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:275:1 - expected_token
+warning - Dead code - lib\services\usage_service.dart:275:2 - dead_code
+  error - Expected an identifier - lib\services\usage_service.dart:275:2 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:275:2 - expected_token
+  error - Expected an identifier - lib\services\usage_service.dart:275:3 - missing_identifier
+  error - Expected to find ';' - lib\services\usage_service.dart:275:3 - expected_token
+

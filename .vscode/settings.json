@@ -1,0 +1,34 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Kidora DB",
+            "username": "root",
+            "database": "kidora_db"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "centerbeam.proxy.rlwy.net",
+            "port": 19649,
+            "driver": "MySQL",
+            "name": "Railway DB",
+            "database": "railway",
+            "username": "root",
+            "password": "jpGmsCTOREsUxXiQJYFiOwzyIrzwUhYZ"
+        }
+    ],
+    "cmake.sourceDirectory": "C:/Users/sethu/Downloads/Final Kidora File (3)/Final Kidora File (2)/Final Kidora File/kidora_app-main (1)/linux"
+}

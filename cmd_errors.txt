@@ -1,0 +1,22 @@
+Analyzing kidora_app-main...                                    
+
+   info - Unnecessary use of multiple underscores - lib\screens\apps_block_page.dart:215:41 - unnecessary_underscores
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\apps_block_page.dart:288:11 - deprecated_member_use
+   info - The import of 'dart:ui' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart' - lib\screens\child_dashboard.dart:3:8 - unnecessary_import
+   info - Statements in an if should be enclosed in a block - lib\screens\child_dashboard.dart:180:66 - curly_braces_in_flow_control_structures
+warning - The value of the local variable 'isDark' isn't used - lib\screens\child_dashboard.dart:340:11 - unused_local_variable
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\screens\create_child_page.dart:181:35 - deprecated_member_use
+   info - The import of 'dart:ui' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart' - lib\screens\login_screen.dart:1:8 - unnecessary_import
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\restrictions_page.dart:116:25 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\screens\send_reminders_page.dart:144:7 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\screens\send_reminders_page.dart:146:7 - deprecated_member_use
+warning - Duplicate import - lib\services\api.dart:7:8 - duplicate_import
+   info - Don't invoke 'print' in production code - lib\services\api.dart:124:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\api.dart:125:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\api.dart:347:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\api.dart:350:7 - avoid_print
+  error - Expected to find '}' - lib\theme\app_theme.dart:191:1 - expected_token
+warning - Unused import: '../theme/app_theme.dart' - lib\widgets\modern_background.dart:3:8 - unused_import
+warning - The value of the local variable 'isDark' isn't used - lib\widgets\modern_background.dart:12:11 - unused_local_variable
+warning - The declaration '_BlurredOrb' isn't referenced - lib\widgets\modern_background.dart:39:7 - unused_element
+

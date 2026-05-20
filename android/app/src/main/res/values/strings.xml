@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kidora App</string>
+    <string name="accessibility_service_description">Used to block selected apps and, when Chrome or Google is open, to scan the address bar for Google searches that match Kidora safety phrases so a parent alert can be sent.</string>
+</resources>

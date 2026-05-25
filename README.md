@@ -188,14 +188,14 @@ PORT=5000
 
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=yourpassword
+DB_PASSWORD=password
 DB_NAME=kidora
 
 JWT_SECRET=your_secret_key
 
-FIREBASE_PROJECT_ID=your_project
-FIREBASE_PRIVATE_KEY=your_key
-FIREBASE_CLIENT_EMAIL=your_email
+FIREBASE_PROJECT_ID=project
+FIREBASE_PRIVATE_KEY=key
+FIREBASE_CLIENT_EMAIL=email
 ```
 
 Run server:
